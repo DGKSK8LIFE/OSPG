@@ -4,7 +4,7 @@ body{
     display: flex;
 }
 
-.centershit {
+.app {
     height: 100%;
     padding: 1%;
     flex-flow: column;
@@ -17,7 +17,6 @@ body{
     display: flex;
     flex: 8;
     justify-content: center;
-
 }
 
 
