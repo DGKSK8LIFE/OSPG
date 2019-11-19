@@ -1,5 +1,5 @@
-document.getElementsByClassName("A").addEventListener("click", playA)
+document.getElementsById("a").addEventListener("click", playA)
 
-function playAudio(){
+function playA() {
     
 }
